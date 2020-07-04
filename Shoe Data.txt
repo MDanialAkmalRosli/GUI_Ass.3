@@ -1,0 +1,7 @@
+The Shoes Basic Data...
+
+Shoe:   Converse
+Colour:  White and Green
+Features:  Light and comfortable
+Price:  RM80.00
+
